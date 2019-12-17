@@ -3,11 +3,11 @@ import Head from "next/head";
 export default () => (
   <div>
     <Head>
-      <title>UX Writing en español</title>
+      <title>UX Writing en español 💎 </title>
       <meta content="123" />
       <meta
         name="Description"
-        content="Primera comunidad de UX writers en español."
+        content="Por Caro Raspa y Sol Parnofiello | Primera comunidad de UX writers en español.Primera comunidad de UX writers en español."
       />
       <meta http-equiv="Content-Language" content="es" />
       <meta
