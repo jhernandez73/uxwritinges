@@ -1,0 +1,31 @@
+{
+  "name": "zapaiacom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js",
+    "heroku-postbuild": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qzapaia/zapaiacom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qzapaia/zapaiacom/issues"
+  },
+  "homepage": "https://github.com/qzapaia/zapaiacom#readme",
+  "dependencies": {
+    "airtable": "^0.5.2",
+    "lodash": "^4.17.4",
+    "next": "^9.1.5",
+    "next-offline": "^4.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
