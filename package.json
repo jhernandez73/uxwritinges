@@ -1,5 +1,5 @@
 {
-  "name": "zapaiacom",
+  "name": "uxwritinges",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qzapaia/zapaiacom.git"
+    "url": "git+https://github.com/jhernandez73/uxwritinges.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qzapaia/zapaiacom/issues"
+    "url": "https://github.com/jhernandez73/uxwritinges/issues"
   },
-  "homepage": "https://github.com/qzapaia/zapaiacom#readme",
+  "homepage": "https://github.com/jhernandez73/uxwritinges#readme",
   "dependencies": {
     "airtable": "^0.5.2",
     "lodash": "^4.17.4",
