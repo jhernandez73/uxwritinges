@@ -3,12 +3,25 @@ import Head from "next/head";
 export default () => (
   <div>
     <Head>
-      <title>UX Writing en español 💎 </title>
-      <meta content="123" />
-      <meta
-        name="Description"
-        content="Por Caro Raspa y Sol Parnofiello | Primera comunidad de UX writers en español.Primera comunidad de UX writers en español."
-      />
+      <!-- Primary Meta Tags -->
+<title>UX Writing en español.</title>
+<meta name="title" content="UX Writing en español.">
+<meta name="description" content="Por Caro Raspa y Sol Parnofiello. Primera comunidad hispana de escritores de producto digitales. ">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metatags.io/">
+<meta property="og:title" content="UX Writing en español.">
+<meta property="og:description" content="Por Caro Raspa y Sol Parnofiello. Primera comunidad hispana de escritores de producto digitales. ">
+<meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://metatags.io/">
+<meta property="twitter:title" content="UX Writing en español.">
+<meta property="twitter:description" content="Por Caro Raspa y Sol Parnofiello. Primera comunidad hispana de escritores de producto digitales. ">
+<meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
       <meta http-equiv="Content-Language" content="es" />
       <meta
         name="keywords"
