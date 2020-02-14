@@ -61,7 +61,7 @@ export default () => (
         target="_blank"
         className="animated swing"
       >
-        <img src="/static/logos/ivoox-icon-t.png" />
+        <img src="/static/logos/ivoox-logo.png" />
       </a>
       <a
         href="https://github.com/uxwritinges"
