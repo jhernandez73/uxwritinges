@@ -70,6 +70,13 @@ export default () => (
       >
         <img src="/static/logos/github-icon.png" />
       </a>
+      <a
+        href="mailto:info@uxwritinges.com"
+        target="_blank"
+        className="animated swing"
+      >
+        <img className="gmail" src="/static/logos/gmail-logo.png" />
+      </a>
     </div>
 
     <style global jsx>{`
@@ -103,6 +110,10 @@ export default () => (
 
       img {
         height: 50px;
+      }
+
+      .gmail {
+        height: 42px;
       }
     `}</style>
   </div>
