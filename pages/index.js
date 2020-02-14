@@ -3,7 +3,7 @@ import Head from "next/head";
 export default () => (
   <div>
     <Head>
-      <title>UX Writing en español 💎</title>
+      <title>UX Writing en español</title>
       <meta name="title" content="UX Writing en español." />
       <meta name="description" content="Por Caro Raspa y Sol Parnofiello | Primera comunidad hispana de escritores de productos digitales." />
 
@@ -55,6 +55,20 @@ export default () => (
         className="animated swing"
       >
         <img src="/static/logos/spotify.png" />
+      </a>
+      <a
+        href="https://ar.ivoox.com/es/podcast-ux-writing-espanol_sq_f1835512_1.html"
+        target="_blank"
+        className="animated swing"
+      >
+        <img src="/static/logos/ivoox-icon-t.png" />
+      </a>
+      <a
+        href="https://github.com/uxwritinges"
+        target="_blank"
+        className="animated swing"
+      >
+        <img src="/static/logos/github-icon.png" />
       </a>
     </div>
 
