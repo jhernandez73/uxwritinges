@@ -23,7 +23,7 @@
   "dependencies": {
     "airtable": "^0.5.2",
     "lodash": "^4.17.4",
-    "next": "^9.1.5",
+    "next": "^9.3.2",
     "next-offline": "^4.0.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
