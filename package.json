@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/jhernandez73/uxwritinges#readme",
   "dependencies": {
-    "airtable": "^0.5.2",
+    "airtable": "^0.7.2",
     "lodash": "^4.17.4",
     "next": "^9.1.5",
     "next-offline": "^4.0.3",
